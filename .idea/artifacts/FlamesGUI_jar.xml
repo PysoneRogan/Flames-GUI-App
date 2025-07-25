@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="FlamesGUI:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/FlamesGUI_jar</output-path>
+    <root id="archive" name="FlamesGUI.jar">
+      <element id="module-output" name="FlamesGUI" />
+    </root>
+  </artifact>
+</component>
